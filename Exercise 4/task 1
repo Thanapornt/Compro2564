@@ -1,0 +1,5 @@
+#1
+Enter = int(input("Enter number : "))
+
+for i in range(1, Enter+1):
+  print(i)
