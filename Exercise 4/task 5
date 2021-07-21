@@ -1,0 +1,8 @@
+# 5
+Enter = int(input("Enter num : "))
+i = 1
+
+
+while i <= 12:
+  print(Enter, "x", i, "=", Enter*i)
+  i = i+1
